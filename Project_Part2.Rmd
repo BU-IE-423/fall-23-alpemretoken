@@ -38,7 +38,7 @@ opts_chunk$set(echo = TRUE,
 
 In this study, two correlated stock pairs are analyzed in BIST30. First, the basic pairs trading strategy is examined using constant variance assumption. Next, advanced pairs trading strategy using time series analysis is observed in these stocks.
 
--   Our markdown document can be found [here](https://bu-ie-423.github.io/fall-23-alpemretoken/part2.Rmd).
+-   Our markdown document can be found [here](https://bu-ie-423.github.io/fall-23-alpemretoken/Project_Part2.Rmd).
 -   The data used in this study can be found [here](https://bu-ie-423.github.io/fall-23-alpemretoken/Data/part2_Data.zip)
 
 # Highly Correlated Pairs
