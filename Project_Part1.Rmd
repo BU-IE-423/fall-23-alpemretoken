@@ -40,7 +40,7 @@ knitr::opts_chunk$set(
 
 In the world of financial markets, the study of stock prices captivates our attention, driven by their inherent dynamism, making them a subject of enduring intrigue. This study is designed to refine our data manipulation skills through the utilization of R and Borsa İstanbul stock data. Our primary objectives encompass retrieving and organizing stock data, detecting outliers, and investigating possible correlations between stock price fluctuations and Google Trends data. This report will serve as our guide, offering valuable insights where financial analysis and data science intersect.
 
--   Our markdown document can be found [here](https://bu-ie-423.github.io/fall-23-alpemretoken/part1.Rmd).
+-   Our markdown document can be found [here](https://bu-ie-423.github.io/fall-23-alpemretoken/Project_Part1.Rmd).
 -   The data used in this study can be found [here](https://bu-ie-423.github.io/fall-23-alpemretoken/part1_Data.zip)
 
 # Data Retrieval and Manipulation
